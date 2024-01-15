@@ -17,7 +17,6 @@ public class five{
             if (temp.contains("5")) {
                 continue;
             }
-            System.out.println(temp);
             // Aumentamos el contador
             counter++;
         }
